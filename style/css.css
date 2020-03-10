@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    height: 700pt;
+}
+a {
+width: 450pt;
+height: 100pt;
+margin-top: 30pt;
+}
+img {
+    
+    border-radius: 10px;
+   
+}
+a.uk-inline:hover img{
+   
+    height: 150pt;
+    margin-top: 10pt;
+    border: 5px chartreuse;
+
+    
+}  
+ 
